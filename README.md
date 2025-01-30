@@ -8,8 +8,7 @@ _Automate your LinkedIn job applications with ease!_
 This Python and Selenium-based bot automates applying to jobs using the Easy Apply feature on LinkedIn.
 
 _26-Jul-24: If you are getting `OSError: [WinError 193] %1 is not a valid Win32 application`, 
-please delete `chromedriver` from your user directory \drivers\chromedriver (use Google to find how). See 
-[here](https://github.com/voidbydefault/EasyApplyBot/issues/64#issuecomment-2253114234)._
+please delete `chromedriver` from your user directory \drivers\chromedriver (use Google to find how). 
 
 ## Key Features
 
@@ -35,8 +34,6 @@ please delete `chromedriver` from your user directory \drivers\chromedriver (use
 - **Genuine issues** Raise issues page at my GitHub.
 
 ## Support This Project
-
-Buy me a coffee through [PayPal](https://paypal.me/voidbydefault) if you find this tool helpful!
 
 ## Credits
 
